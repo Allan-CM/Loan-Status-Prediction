@@ -8,4 +8,4 @@ Credit_Risk Folder:
 3. Resource Folder --> Contains leadning data csv used for this analysis
 
 Credits: 
-https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.htmls. --> Used resource to learn how to address the imbalance in target data classficiation using ramdom resampler 
+https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.htmls. --> Used resource to learn how to address the imbalance in target data classificiation using random resampler 
